@@ -1,0 +1,162 @@
+img{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+p{
+	margin-right:40%;
+	margin-left: 2%;
+}
+hr{
+	border:solid black;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+h3{
+	margin-left: 2%;
+}
+label{
+	margin-left:80%;
+}
+div{
+	background-color:black;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	margin: 150px;
+	color: white;
+}
+li label{
+	display: inline;
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	color:red;
+}
+header{
+	background-color: black;
+	padding: 1px;
+
+}
+footer{
+	background-color: black;
+	color:white;
+	padding: 1px;
+}
+.aarti_ltd a{
+	text-decoration: none;
+}
+.aarti_ltd a:hover{
+	color: red;
+}
+.atul_ltd a{
+	text-decoration: none;
+}
+.atul_ltd a:hover{
+	color: red;
+}
+.basf_ltd a{
+	text-decoration: none;
+}
+.basf_ltd a:hover{
+	color: red;
+}
+.ghcl_ltd a{
+	text-decoration: none;
+}
+.ghcl_ltd a:hover{
+	color: red;
+}
+.gfl_ltd a{
+	text-decoration: none;
+}
+.gfl_ltd a:hover{
+	color: red;
+}
+.dow_ltd a{
+	text-decoration: none;
+}
+.dow_ltd a:hover{
+	color: red;
+}
+.glycol_ltd a{
+	text-decoration: none;
+}
+.glycol_ltd a:hover{
+	color: red;
+}
+.pidilite_ltd a{
+	text-decoration: none;
+}
+.pidilite_ltd a:hover{
+	color: red;
+}
+.tata_ltd a{
+	text-decoration: none;
+}
+.tata_ltd a:hover{
+	color: red;
+}
+.upl_ltd a{
+	text-decoration: none;
+}
+.upl_ltd a:hover{
+	color: red;
+}
+.psus_ltd a{
+	text-decoration: none;
+
+}
+.psus_ltd a:hover{
+	color: red;
+}
+.plastic_ltd a{
+	text-decoration: none;
+	
+
+}
+.plastic_ltd a:hover{
+	color: red;
+}
+.more_li{
+	text-align: center;
+	background-color: white;
+	color: black;
+	text-decoration: underline;
+}
+.column_para{
+	column-count: 2;
+	background-color: white;
+	margin-left: 10%;
+}
+.psus_com{
+	color: black;
+}
+.plastic_com{
+	color:black;
+}
+.about_us{
+	text-align: center;
+	text-decoration: underline;
+}
+.about_para{
+	margin-left: 1%;
+	margin-right: 1%;
+}
+#comment_col{
+	background-color: white;
+	color: black;
+}
+#form_comment{
+	background-color: white;
+	color: black;
+}
